@@ -1,4 +1,4 @@
-﻿using CsvHelper.Configuration;
+﻿/*using CsvHelper.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Rad302SampleExam2024.DataModel.CSVMapper;
 using System;
@@ -48,4 +48,4 @@ namespace Rad302SampleExam2024.DataModel
 
 
     }
-}
+}*/ // ULAS THIS DB USING FOR WINDOWS YOU DO NOT NEED THIS BECAUSE ITS NOT GONNA WORK

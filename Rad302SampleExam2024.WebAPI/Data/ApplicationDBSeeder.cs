@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -55,5 +55,5 @@ namespace RAD302FinalExam20222023.Data
                 }
         }
     }
-}
+}*/ // I WONT NEED THIS I ADDED EVERYTHING THE SEED ENTREANCE DATA IN PROGRAM.CS / API ONE
 
